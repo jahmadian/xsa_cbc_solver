@@ -1,0 +1,7 @@
+---
+version: 0.1.0002
+applications:
+- name: solver_test
+  host: solver_test
+  path: .
+  command: python server.py

@@ -1,0 +1,8 @@
+Flask<=1.1.1
+cfenv<=0.5.3
+pandas<=1.2.4
+networkx<=2.5
+gunicorn<=20.0.4
+hdbcli<=2.7.17
+requests~=2.25.1
+pulp==0.2.5.0
